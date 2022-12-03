@@ -8,7 +8,7 @@
 ## About
 An Application for children who want to earn money doing chores.  My son has been bugging me about earning 'Robux', the virtual currency of Roblox, so why not build him something cool to keep track of all the hard work he does?
 
-## Tech Stack
+## Tech Stack (MERN)
 * MongoDB Atlas
 * Express.js
 * React.js
