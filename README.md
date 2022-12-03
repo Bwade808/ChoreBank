@@ -5,8 +5,8 @@
 2. npm install (all folders with package.json)
 3. npm start 
 
-## An Application for children who want to earn money doing chores
-My  son has been bugging me about earning 'Robux', the virtual currency of Roblox, so why not build him something cool to keep track of all the hard work he does?
+## About
+An Application for children who want to earn money doing chores.  My son has been bugging me about earning 'Robux', the virtual currency of Roblox, so why not build him something cool to keep track of all the hard work he does?
 
 ## Tech Stack
 *MongoDB Atlas
